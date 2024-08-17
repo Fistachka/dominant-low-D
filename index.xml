@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-low-D</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic"/>
   <readme>
-    <ru>778afb86940c3ff719c2f2341320313f7b5032c6430fe6f223fb5ed4b8de224f</ru>
-    <en>b29bbb8f6b1e67956a196f2867daff25f2245245e9bb4f357541e1a3b414006a</en>
+    <ru>9462fe5f6a043f49a61bc7d8b48eed2dfdb41bc764eb419690c9a651dfff3a96</ru>
+    <en>e1620c61172f3f90c520c25b9d07d31862151fe70c0f1dd48689f9e6e3f8ece1</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
