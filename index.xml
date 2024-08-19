@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-low-D</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic"/>
   <readme>
-    <ru>2136c0b9e573b8bf02df22b937a538cbae20a8a9559c372599c6688988032a37</ru>
-    <en>50d8b93d449324753278bd58b33329640f87c51525c0a56834e45d67d640164e</en>
+    <ru>7c8cbff0a031e4c9ae015c8987dd52fe57f5c563e37c216441de3ffbce71ab93</ru>
+    <en>a0f20161d0e8d8c8ef6645af476ff97ff234a35ef5ba34a8df5e596058250d00</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -14,7 +14,7 @@
     <bpm>80</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>3</tonalities>
-    <video name="медузы звук1.mp4" size="2067467" type="video/mp4" volume="0.621">82e4f704ce598d2c484c266e2f294f9c2e13e9fd2af4ac8a2bb444ecd78231d2</video>
+    <video name="медузы звук1.mp4" size="2067467" type="video/mp4" volume="0.621">161b28bd31256f6ac86f9e5cbe3538478729b18ccf9ab4ab71e8724977c1fb9e</video>
     <notes>
       <note number="1" values="1,5,85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,85" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
