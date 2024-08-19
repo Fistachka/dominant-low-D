@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-low-D</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic"/>
   <readme>
     <ru>2136c0b9e573b8bf02df22b937a538cbae20a8a9559c372599c6688988032a37</ru>
@@ -14,7 +14,7 @@
     <bpm>80</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м1.mp4" size="1191278" type="video/mp4" volume="1">d1f80972abfa71a681dc85b71b390853b8d7f383311267e8f75580b622b79090</video>
+    <video name="медузы звук1.mp4" size="2067467" type="video/mp4" volume="1">82e4f704ce598d2c484c266e2f294f9c2e13e9fd2af4ac8a2bb444ecd78231d2</video>
     <notes>
       <note number="1" values="1,5,85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,85" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -27,7 +27,7 @@
     <bpm>80</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м2.mp4" size="1243209" type="video/mp4" volume="1">5f6c5e25acf9fd990aa832e23da4e6f25e2458aa654be322172673bedf2a0b64</video>
+    <video name="медузы звук2.mp4" size="1827499" type="video/mp4" volume="1">92a336736c03f81d3707d2f27081ad71cb49bd291ee0d1ed5865c984ab23b2e9</video>
     <notes>
       <note number="1" values="5,18,58" ticks="0" durationTicks="120" ppq="96" velocity="0.843"/>
       <note number="2" values="5,18,58" ticks="91" durationTicks="126" ppq="96" velocity="0.913"/>
@@ -40,7 +40,7 @@
     <bpm>80</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м3.mp4" size="1441249" type="video/mp4" volume="1">b6237d57be3ae95f06022645ea566f4ab17f2047830c8aee2d1542913385cb7b</video>
+    <video name="медузы звук3.mp4" size="1689207" type="video/mp4" volume="1">0eae3bacf29256ed6da05b3c1716d0bdb7aebe02883cbe1209fccea95518b298</video>
     <notes>
       <note number="1" values="5,18,58" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="5,18,58" ticks="94" durationTicks="115" ppq="96" velocity="0.913"/>
@@ -52,7 +52,7 @@
     <bpm>80</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м4.mp4" size="1328684" type="video/mp4" volume="1">3c4cb559feeaddeed1b82b20d47e1856ef4f21abcf5fcbfe13605686ee0b191a</video>
+    <video name="медузы звук4.mp4" size="1761381" type="video/mp4" volume="1">aea71e9aa47082eced6d7f1a8d711be8e7c99c45cc6c7b754b8499285f1bdd2c</video>
     <notes>
       <note number="1" values="5,18,58" ticks="0" durationTicks="122" ppq="96" velocity="0.843"/>
       <note number="2" values="5,18,58" ticks="56" durationTicks="137" ppq="96" velocity="0.913"/>
@@ -65,7 +65,7 @@
     <bpm>80</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м5.mp4" size="1567002" type="video/mp4" volume="1">f6cc0f53e1fa2d744d4725bfe0b568f4653cbc05ce37ab8d4ac1f9969a5a8c7d</video>
+    <video name="медузы звук5.mp4" size="1948758" type="video/mp4" volume="1">13c151e23faa6e173c89a21ef99f026af312348b64f248babdc7c337ed9fe93c</video>
     <notes>
       <note number="1" values="1,5,85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,85" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -79,7 +79,7 @@
     <bpm>80</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м6.mp4" size="1519977" type="video/mp4" volume="1">1ee9228881647a9e01fc72b95b5f64624479a01eeaece159dfdfa4a51311180a</video>
+    <video name="медузы звук6.mp4" size="2088999" type="video/mp4" volume="1">e5be956a34d664eccd25f4f6244794940962a66c6bbe7762a5f44c784b632344</video>
     <notes>
       <note number="1" values="1,5,85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,85" ticks="95" durationTicks="115" ppq="96" velocity="0.913"/>
@@ -92,7 +92,7 @@
     <bpm>80</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м7.mp4" size="1420497" type="video/mp4" volume="1">e69f8a8724578ff683d6c91a6ca1f70d4df1e1db7801ef6f24020dbca720d2c0</video>
+    <video name="медузы звук7.mp4" size="1959957" type="video/mp4" volume="1">e8ad8a5576b50e654195f8e0c09efd79b9c2655c5cb149f8d595b57c96f36951</video>
     <notes>
       <note number="1" values="1,5,85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,85" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -104,7 +104,7 @@
     <bpm>80</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м8.mp4" size="1502687" type="video/mp4" volume="1">96fd70ee77862230b4ae73445dcdaa89ffc9d10c87b76db6cd19997cbd84e451</video>
+    <video name="медузы звук8.mp4" size="1807228" type="video/mp4" volume="1">ff3c28b9dec45214043ad61392e79db27d772a36fe0c7cc5c1634baec0107e58</video>
     <notes>
       <note number="1" values="5,18,58" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="5,18,58" ticks="104" durationTicks="112" ppq="96" velocity="0.913"/>
@@ -117,7 +117,7 @@
     <bpm>80</bpm>
     <lowestNote>85</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м9.mp4" size="1629657" type="video/mp4" volume="1">6d294e206d0188a4a16eba7f58096188e34d1e174860625d6e456282d55c7bb6</video>
+    <video name="медузы звук9.mp4" size="1887758" type="video/mp4" volume="1">a48f0877033de0ddd13260f1b26c50f3e52862e8d3b15e2e3ba80b72256a2a51</video>
     <notes>
       <note number="1" values="1,5,85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,5,85" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
@@ -130,7 +130,7 @@
     <bpm>80</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
-    <video name="м10.mp4" size="1581816" type="video/mp4" volume="1">9bd6037aabf22d86c020955c3f30c280dfd61093a686d3c488844f421a2b2e73</video>
+    <video name="медузы звук10.mp4" size="1861146" type="video/mp4" volume="1">40ae0dfb41a86884f579944228cf4137f36a25542102ab6d4d9b869da2c6ecbd</video>
     <notes>
       <note number="1" values="5,18,58" ticks="0" durationTicks="98" ppq="96" velocity="0.843"/>
       <note number="2" values="5,18,58" ticks="102" durationTicks="96" ppq="96" velocity="0.913"/>
