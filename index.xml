@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-low-D</repo>
-  <version>v1.0.13</version>
+  <version>v1.0.14</version>
   <next number="1" owner="stolbitsa" repo="dominant-harmonic"/>
   <readme>
     <ru>7c8cbff0a031e4c9ae015c8987dd52fe57f5c563e37c216441de3ffbce71ab93</ru>
@@ -16,10 +16,10 @@
     <tonalities>3</tonalities>
     <video name="медузы звук1.mp4" size="2067467" type="video/mp4" volume="0.624">82e4f704ce598d2c484c266e2f294f9c2e13e9fd2af4ac8a2bb444ecd78231d2</video>
     <notes>
-      <note number="1" values="1,5,85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,5,85" ticks="55" durationTicks="92" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,5,85" ticks="199" durationTicks="101" ppq="96" velocity="0.874"/>
-      <note number="4" values="1,5,85" ticks="249" durationTicks="97" ppq="96" velocity="0.921"/>
+      <note number="1" values="85" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="55" durationTicks="92" ppq="96" velocity="0.913"/>
+      <note number="3" values="1" ticks="199" durationTicks="101" ppq="96" velocity="0.874"/>
+      <note number="4" values="5" ticks="249" durationTicks="97" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -29,10 +29,10 @@
     <tonalities>3</tonalities>
     <video name="медузы звук2.mp4" size="1827499" type="video/mp4" volume="0.624">92a336736c03f81d3707d2f27081ad71cb49bd291ee0d1ed5865c984ab23b2e9</video>
     <notes>
-      <note number="1" values="5,18,58" ticks="3" durationTicks="117" ppq="96" velocity="0.843"/>
-      <note number="2" values="5,18,58" ticks="102" durationTicks="115" ppq="96" velocity="0.913"/>
-      <note number="3" values="5,18,58" ticks="200" durationTicks="120" ppq="96" velocity="0.874"/>
-      <note number="4" values="5,18,58" ticks="296" durationTicks="96" ppq="96" velocity="0.921"/>
+      <note number="1" values="18" ticks="3" durationTicks="117" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="102" durationTicks="115" ppq="96" velocity="0.913"/>
+      <note number="3" values="5" ticks="200" durationTicks="120" ppq="96" velocity="0.874"/>
+      <note number="4" values="58" ticks="296" durationTicks="96" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -42,9 +42,9 @@
     <tonalities>3</tonalities>
     <video name="медузы звук3.mp4" size="1689207" type="video/mp4" volume="0.626">0eae3bacf29256ed6da05b3c1716d0bdb7aebe02883cbe1209fccea95518b298</video>
     <notes>
-      <note number="1" values="5,18,58" ticks="8" durationTicks="120" ppq="96" velocity="0.843"/>
-      <note number="2" values="5,18,58" ticks="105" durationTicks="120" ppq="96" velocity="0.913"/>
-      <note number="3" values="5,18,58" ticks="202" durationTicks="103" ppq="96" velocity="0.874"/>
+      <note number="1" values="5" ticks="8" durationTicks="120" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="105" durationTicks="120" ppq="96" velocity="0.913"/>
+      <note number="3" values="18" ticks="202" durationTicks="103" ppq="96" velocity="0.874"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -54,10 +54,10 @@
     <tonalities>3</tonalities>
     <video name="медузы звук4.mp4" size="1761381" type="video/mp4" volume="0.622">aea71e9aa47082eced6d7f1a8d711be8e7c99c45cc6c7b754b8499285f1bdd2c</video>
     <notes>
-      <note number="1" values="5,18,58" ticks="0" durationTicks="122" ppq="96" velocity="0.843"/>
-      <note number="2" values="5,18,58" ticks="52" durationTicks="141" ppq="96" velocity="0.913"/>
-      <note number="3" values="5,18,58" ticks="200" durationTicks="193" ppq="96" velocity="0.874"/>
-      <note number="4" values="5,18,58" ticks="248" durationTicks="145" ppq="96" velocity="0.921"/>
+      <note number="1" values="58" ticks="0" durationTicks="122" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="52" durationTicks="141" ppq="96" velocity="0.913"/>
+      <note number="3" values="5" ticks="200" durationTicks="193" ppq="96" velocity="0.874"/>
+      <note number="4" values="18" ticks="248" durationTicks="145" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -67,11 +67,11 @@
     <tonalities>3</tonalities>
     <video name="медузы звук5.mp4" size="1948758" type="video/mp4" volume="0.625">13c151e23faa6e173c89a21ef99f026af312348b64f248babdc7c337ed9fe93c</video>
     <notes>
-      <note number="1" values="1,5,85" ticks="3" durationTicks="102" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,5,85" ticks="52" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,5,85" ticks="174" durationTicks="125" ppq="96" velocity="0.874"/>
-      <note number="4" values="1,5,85" ticks="248" durationTicks="132" ppq="96" velocity="0.921"/>
-      <note number="5" values="1,5,85" ticks="320" durationTicks="113" ppq="96" velocity="0.827"/>
+      <note number="1" values="5" ticks="3" durationTicks="102" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="52" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="3" values="5" ticks="174" durationTicks="125" ppq="96" velocity="0.874"/>
+      <note number="4" values="1" ticks="248" durationTicks="132" ppq="96" velocity="0.921"/>
+      <note number="5" values="85" ticks="320" durationTicks="113" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -81,10 +81,10 @@
     <tonalities>3</tonalities>
     <video name="медузы звук6.mp4" size="2088999" type="video/mp4" volume="0.621">e5be956a34d664eccd25f4f6244794940962a66c6bbe7762a5f44c784b632344</video>
     <notes>
-      <note number="1" values="1,5,85" ticks="6" durationTicks="99" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,5,85" ticks="106" durationTicks="116" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,5,85" ticks="204" durationTicks="150" ppq="96" velocity="0.874"/>
-      <note number="4" values="1,5,85" ticks="254" durationTicks="141" ppq="96" velocity="0.904"/>
+      <note number="1" values="85" ticks="6" durationTicks="99" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="106" durationTicks="116" ppq="96" velocity="0.913"/>
+      <note number="3" values="1" ticks="204" durationTicks="150" ppq="96" velocity="0.874"/>
+      <note number="4" values="1" ticks="254" durationTicks="141" ppq="96" velocity="0.904"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -94,9 +94,9 @@
     <tonalities>3</tonalities>
     <video name="медузы звук7.mp4" size="1959957" type="video/mp4" volume="0.622">e8ad8a5576b50e654195f8e0c09efd79b9c2655c5cb149f8d595b57c96f36951</video>
     <notes>
-      <note number="1" values="1,5,85" ticks="4" durationTicks="142" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,5,85" ticks="101" durationTicks="162" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,5,85" ticks="201" durationTicks="131" ppq="96" velocity="0.874"/>
+      <note number="1" values="1" ticks="4" durationTicks="142" ppq="96" velocity="0.843"/>
+      <note number="2" values="1" ticks="101" durationTicks="162" ppq="96" velocity="0.913"/>
+      <note number="3" values="5" ticks="201" durationTicks="131" ppq="96" velocity="0.874"/>
     </notes>
   </exercise>
   <exercise number="8">
@@ -106,10 +106,10 @@
     <tonalities>3</tonalities>
     <video name="медузы звук8.mp4" size="1807228" type="video/mp4" volume="0.626">ff3c28b9dec45214043ad61392e79db27d772a36fe0c7cc5c1634baec0107e58</video>
     <notes>
-      <note number="1" values="5,18,58" ticks="4" durationTicks="105" ppq="96" velocity="0.843"/>
-      <note number="2" values="5,18,58" ticks="100" durationTicks="126" ppq="96" velocity="0.913"/>
-      <note number="3" values="5,18,58" ticks="176" durationTicks="129" ppq="96" velocity="0.874"/>
-      <note number="4" values="5,18,58" ticks="296" durationTicks="93" ppq="96" velocity="0.921"/>
+      <note number="1" values="58" ticks="4" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="100" durationTicks="126" ppq="96" velocity="0.913"/>
+      <note number="3" values="5" ticks="176" durationTicks="129" ppq="96" velocity="0.874"/>
+      <note number="4" values="18" ticks="296" durationTicks="93" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="9">
@@ -119,10 +119,10 @@
     <tonalities>3</tonalities>
     <video name="медузы звук9.mp4" size="1887758" type="video/mp4" volume="0.622">a48f0877033de0ddd13260f1b26c50f3e52862e8d3b15e2e3ba80b72256a2a51</video>
     <notes>
-      <note number="1" values="1,5,85" ticks="2" durationTicks="105" ppq="96" velocity="0.843"/>
-      <note number="2" values="1,5,85" ticks="52" durationTicks="95" ppq="96" velocity="0.913"/>
-      <note number="3" values="1,5,85" ticks="174" durationTicks="139" ppq="96" velocity="0.874"/>
-      <note number="4" values="1,5,85" ticks="247" durationTicks="110" ppq="96" velocity="0.921"/>
+      <note number="1" values="85" ticks="2" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="52" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="3" values="5" ticks="174" durationTicks="139" ppq="96" velocity="0.874"/>
+      <note number="4" values="85" ticks="247" durationTicks="110" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="10">
@@ -132,11 +132,11 @@
     <tonalities>3</tonalities>
     <video name="медузы звук10.mp4" size="1861146" type="video/mp4" volume="0.624">40ae0dfb41a86884f579944228cf4137f36a25542102ab6d4d9b869da2c6ecbd</video>
     <notes>
-      <note number="1" values="5,18,58" ticks="3" durationTicks="118" ppq="96" velocity="0.843"/>
-      <note number="2" values="5,18,58" ticks="104" durationTicks="121" ppq="96" velocity="0.913"/>
-      <note number="3" values="5,18,58" ticks="200" durationTicks="119" ppq="96" velocity="0.874"/>
-      <note number="4" values="5,18,58" ticks="297" durationTicks="103" ppq="96" velocity="0.921"/>
-      <note number="5" values="5,18,58" ticks="346" durationTicks="106" ppq="96" velocity="0.842"/>
+      <note number="1" values="18" ticks="3" durationTicks="118" ppq="96" velocity="0.843"/>
+      <note number="2" values="58" ticks="104" durationTicks="121" ppq="96" velocity="0.913"/>
+      <note number="3" values="58" ticks="200" durationTicks="119" ppq="96" velocity="0.874"/>
+      <note number="4" values="18" ticks="297" durationTicks="103" ppq="96" velocity="0.921"/>
+      <note number="5" values="5" ticks="346" durationTicks="106" ppq="96" velocity="0.842"/>
     </notes>
   </exercise>
 </level>
