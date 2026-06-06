@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <owner>Fistachka</owner>
-  <repo>dominant-low-D</repo>
-  <version>v1.0.20</version>
-  <next number="1" owner="stolbitsa" repo="dominant-harmonic"/>
+  <repo>dominant-low-d</repo>
+  <version>v1.0.21</version>
+  <next number="1" owner="stolbitsa" repo="dominant-low-5"/>
   <readme>
     <ru>5761098633fe73c415ce7df93c10327ddc6961d9dfaf5f05ca28127e8ea97f65</ru>
     <en>90a0d546ee74baebc1b56db40d1a7b04440cdc5d79389c186533b0a6e38fdd74</en>
