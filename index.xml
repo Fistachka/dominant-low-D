@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-low-d</repo>
-  <version>v1.0.21</version>
+  <version>v1.0.22</version>
   <next number="1" owner="stolbitsa" repo="dominant-low-5"/>
   <readme>
-    <ru>5761098633fe73c415ce7df93c10327ddc6961d9dfaf5f05ca28127e8ea97f65</ru>
-    <en>90a0d546ee74baebc1b56db40d1a7b04440cdc5d79389c186533b0a6e38fdd74</en>
+    <ru>046436b53161a87f9b20bacf692c1e8c5a3862c0df8372189706c96f563e3276</ru>
+    <en>f82ac22c1a02e1e56f096715bb3223b1f6b5f4b479b0b7a634033e17a1a06e03</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
